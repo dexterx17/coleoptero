@@ -1,0 +1,8 @@
+﻿<Window x:Class="ARDrone.UI.MandosKinect"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MandosKinect" Height="484" Width="777">
+    <Grid>
+        
+    </Grid>
+</Window>

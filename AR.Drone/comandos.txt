@@ -1,0 +1,5 @@
+start===> despegar... aterrizar
+analogicos===> giros 3D y altura
+select===> luces
+L2===>  camaras
+R1===> habilitar coneccion

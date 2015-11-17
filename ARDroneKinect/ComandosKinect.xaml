@@ -1,0 +1,8 @@
+﻿<Window x:Class="ARDrone.UI.ComandosKinect"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ComandosKinect" Height="354" Width="579">
+    <Grid>
+        <DataGrid AutoGenerateColumns="False" Height="154" HorizontalAlignment="Left" Margin="32,113,0,0" Name="dataGrid1" VerticalAlignment="Top" Width="244" />
+    </Grid>
+</Window>
